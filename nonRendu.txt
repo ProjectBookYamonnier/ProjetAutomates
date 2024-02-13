@@ -1,0 +1,10 @@
+ADRIEN 8 HEURES DEBUT 2 ADULTE;/
+
+
+BILAN DU JOUR 1
+
+      CLIENT      JOUR    HEURE_DEBUT  ADULTE    ENFANT
+---------------    ----      ---       ---       ---     
+ADRIEN             1         8         2         0
+******************************************************************************
+lecture apres fin de fichier

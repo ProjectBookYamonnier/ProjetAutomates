@@ -1,0 +1,45 @@
+GABI DEBU 2 ADULTE 3 ENFANT,
+GABRIEL DEBUT 15 ADULTE;
+
+GABI FIN,
+SAMI 4 HEURES DEBUT 2 ADULTE,
+SAM DEBUT 1000 ADULTE,
+MAX DEBUT 1000 ENFANT;/
+
+
+
+
+BILAN DU JOUR 1
+
+      CLIENT      JOUR    HEURE_DEBUT  ADULTE    ENFANT
+---------------    ----      ---       ---       ---     
+GABRIEL            1         8        15         0
+******************************************************************************
+
+Err 4 : Le client n'existe pas pour continuer tapez entree 
+
+Err 3 : L'heure n'est pas correcte pour continuer tapez entree 
+
+Err 7 : Quantité adulte indisponible pour continuer tapez entree 
+
+Err 8 : Quantité enfant indisponible pour continuer tapez entree 
+
+BILAN DU JOUR 2
+
+      CLIENT      JOUR    HEURE_DEBUT  ADULTE    ENFANT
+---------------    ----      ---       ---       ---     
+GABRIEL            1         8        15         0
+******************************************************************************
+**************************** BILAN FINAL **********************************
+
+Nombre de velos adulte manquants :  15
+Nombre de velos enfant manquants :  0
+Operations correctes : 0 - Nombre total d'operations : 5
+
+Voici les clients qui doivent encore rendre des velos
+
+      CLIENT      JOUR    HEURE_DEBUT  ADULTE    ENFANT
+---------------    ----      ---       ---       ---     
+GABRIEL            1         8        15         0
+**************************** BILAN AFFLUENCE **********************************
+Le jour de plus grande affluence  est : 1 avec 2 clients différents servis

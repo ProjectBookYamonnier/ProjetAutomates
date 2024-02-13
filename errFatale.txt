@@ -1,0 +1,9 @@
+ADRA 10 HEURES DEBUT 2 ADULTE,
+ADRA 9 HEURES FIN;
+
+
+
+Err 4 : Impossible l'heure saisi est inférieur à l'heure de location pour continuer tapez entree 
+
+ pour fermer la fenetre de trace d'execution, tapez entree 
+

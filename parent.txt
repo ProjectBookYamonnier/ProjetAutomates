@@ -1,0 +1,51 @@
+Durand DEBUT 5 ADULTE 0 ENFANT,
+Durant 8 HEURES DEBUT 23 ADULTE,
+Dupond 8 HEURES DEBUT 13 ADULTE,
+Dupont 8 HEURES DEBUT 9 ADULTE,
+Durond DEBUT 1 ADULTE;
+
+
+Durand FIN,
+Durant 9 HEURES FIN;/
+
+
+
+
+
+Err 7 : Quantité adulte indisponible pour continuer tapez entree 
+
+BILAN DU JOUR 1
+
+      CLIENT      JOUR    HEURE_DEBUT  ADULTE    ENFANT
+---------------    ----      ---       ---       ---     
+DURAND             1         8         5         0
+DURANT             1         8        23         0
+DUPOND             1         8        13         0
+DUPONT             1         8         9         0
+******************************************************************************
+
+Le client:  DURAND  doit payer : 220 euros pour 5 velo(s) adulte et 0 velo(s) enfant
+
+Le client:  DURANT  doit payer : 1104 euros pour 23 velo(s) adulte et 0 velo(s) enfant
+
+BILAN DU JOUR 2
+
+      CLIENT      JOUR    HEURE_DEBUT  ADULTE    ENFANT
+---------------    ----      ---       ---       ---     
+DUPOND             1         8        13         0
+DUPONT             1         8         9         0
+******************************************************************************
+**************************** BILAN FINAL **********************************
+
+Nombre de velos adulte manquants :  22
+Nombre de velos enfant manquants :  0
+Operations correctes : 6 - Nombre total d'operations : 7
+
+Voici les clients qui doivent encore rendre des velos
+
+      CLIENT      JOUR    HEURE_DEBUT  ADULTE    ENFANT
+---------------    ----      ---       ---       ---     
+DUPOND             1         8        13         0
+DUPONT             1         8         9         0
+**************************** BILAN AFFLUENCE **********************************
+Le jour de plus grande affluence  est : 1 avec 4 clients différents servis

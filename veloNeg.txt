@@ -1,0 +1,14 @@
+GABRIEL 9 HEURES DEBUT -3 ADULTE,
+GABI 8 HEURES DEBUT -4 ADULTE,
+GRE 9 HEURES DEBUT 2 ADULTE;/
+
+
+
+
+
+BILAN DU JOUR 1
+
+      CLIENT      JOUR    HEURE_DEBUT  ADULTE    ENFANT
+---------------    ----      ---       ---       ---     
+GRE                1         9         2         0
+******************************************************************************
